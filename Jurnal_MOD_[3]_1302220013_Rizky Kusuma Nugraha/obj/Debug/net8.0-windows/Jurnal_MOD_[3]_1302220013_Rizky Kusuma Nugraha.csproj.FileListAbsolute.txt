@@ -1,0 +1,17 @@
+D:\Jurnal_MOD_[3]_1302220013_Rizky Kusuma Nugraha\Jurnal_MOD_[3]_1302220013_Rizky Kusuma Nugraha\bin\Debug\net8.0-windows\Jurnal_MOD_[3]_1302220013_Rizky Kusuma Nugraha.exe
+D:\Jurnal_MOD_[3]_1302220013_Rizky Kusuma Nugraha\Jurnal_MOD_[3]_1302220013_Rizky Kusuma Nugraha\bin\Debug\net8.0-windows\Jurnal_MOD_[3]_1302220013_Rizky Kusuma Nugraha.deps.json
+D:\Jurnal_MOD_[3]_1302220013_Rizky Kusuma Nugraha\Jurnal_MOD_[3]_1302220013_Rizky Kusuma Nugraha\bin\Debug\net8.0-windows\Jurnal_MOD_[3]_1302220013_Rizky Kusuma Nugraha.runtimeconfig.json
+D:\Jurnal_MOD_[3]_1302220013_Rizky Kusuma Nugraha\Jurnal_MOD_[3]_1302220013_Rizky Kusuma Nugraha\bin\Debug\net8.0-windows\Jurnal_MOD_[3]_1302220013_Rizky Kusuma Nugraha.dll
+D:\Jurnal_MOD_[3]_1302220013_Rizky Kusuma Nugraha\Jurnal_MOD_[3]_1302220013_Rizky Kusuma Nugraha\bin\Debug\net8.0-windows\Jurnal_MOD_[3]_1302220013_Rizky Kusuma Nugraha.pdb
+D:\Jurnal_MOD_[3]_1302220013_Rizky Kusuma Nugraha\Jurnal_MOD_[3]_1302220013_Rizky Kusuma Nugraha\obj\Debug\net8.0-windows\Jurnal_MOD__3__1302220013_Rizky_Kusuma_Nugraha.Form1.resources
+D:\Jurnal_MOD_[3]_1302220013_Rizky Kusuma Nugraha\Jurnal_MOD_[3]_1302220013_Rizky Kusuma Nugraha\obj\Debug\net8.0-windows\Jurnal_MOD_[3]_1302220013_Rizky Kusuma Nugraha.csproj.GenerateResource.cache
+D:\Jurnal_MOD_[3]_1302220013_Rizky Kusuma Nugraha\Jurnal_MOD_[3]_1302220013_Rizky Kusuma Nugraha\obj\Debug\net8.0-windows\Jurnal_MOD_[3]_1302220013_Rizky Kusuma Nugraha.GeneratedMSBuildEditorConfig.editorconfig
+D:\Jurnal_MOD_[3]_1302220013_Rizky Kusuma Nugraha\Jurnal_MOD_[3]_1302220013_Rizky Kusuma Nugraha\obj\Debug\net8.0-windows\Jurnal_MOD_[3]_1302220013_Rizky Kusuma Nugraha.AssemblyInfoInputs.cache
+D:\Jurnal_MOD_[3]_1302220013_Rizky Kusuma Nugraha\Jurnal_MOD_[3]_1302220013_Rizky Kusuma Nugraha\obj\Debug\net8.0-windows\Jurnal_MOD_[3]_1302220013_Rizky Kusuma Nugraha.AssemblyInfo.cs
+D:\Jurnal_MOD_[3]_1302220013_Rizky Kusuma Nugraha\Jurnal_MOD_[3]_1302220013_Rizky Kusuma Nugraha\obj\Debug\net8.0-windows\Jurnal_MOD_[3]_1302220013_Rizky Kusuma Nugraha.csproj.CoreCompileInputs.cache
+D:\Jurnal_MOD_[3]_1302220013_Rizky Kusuma Nugraha\Jurnal_MOD_[3]_1302220013_Rizky Kusuma Nugraha\obj\Debug\net8.0-windows\Jurnal_MOD_[3]_1302220013_Rizky Kusuma Nugraha.sourcelink.json
+D:\Jurnal_MOD_[3]_1302220013_Rizky Kusuma Nugraha\Jurnal_MOD_[3]_1302220013_Rizky Kusuma Nugraha\obj\Debug\net8.0-windows\Jurnal_MOD_[3]_1302220013_Rizky Kusuma Nugraha.dll
+D:\Jurnal_MOD_[3]_1302220013_Rizky Kusuma Nugraha\Jurnal_MOD_[3]_1302220013_Rizky Kusuma Nugraha\obj\Debug\net8.0-windows\refint\Jurnal_MOD_[3]_1302220013_Rizky Kusuma Nugraha.dll
+D:\Jurnal_MOD_[3]_1302220013_Rizky Kusuma Nugraha\Jurnal_MOD_[3]_1302220013_Rizky Kusuma Nugraha\obj\Debug\net8.0-windows\Jurnal_MOD_[3]_1302220013_Rizky Kusuma Nugraha.pdb
+D:\Jurnal_MOD_[3]_1302220013_Rizky Kusuma Nugraha\Jurnal_MOD_[3]_1302220013_Rizky Kusuma Nugraha\obj\Debug\net8.0-windows\Jurnal_MOD_[3]_1302220013_Rizky Kusuma Nugraha.genruntimeconfig.cache
+D:\Jurnal_MOD_[3]_1302220013_Rizky Kusuma Nugraha\Jurnal_MOD_[3]_1302220013_Rizky Kusuma Nugraha\obj\Debug\net8.0-windows\ref\Jurnal_MOD_[3]_1302220013_Rizky Kusuma Nugraha.dll
