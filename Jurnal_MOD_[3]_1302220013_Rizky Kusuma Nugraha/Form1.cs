@@ -37,7 +37,7 @@ namespace Jurnal_MOD__3__1302220013_Rizky_Kusuma_Nugraha
             string keluar = Convert.ToString(hasil);
             textBox1.Text = keluar;
             temp = 0;
-            output = "";
+            output = "0";
         }
 
         private void tombol2_Click(object sender, EventArgs e)

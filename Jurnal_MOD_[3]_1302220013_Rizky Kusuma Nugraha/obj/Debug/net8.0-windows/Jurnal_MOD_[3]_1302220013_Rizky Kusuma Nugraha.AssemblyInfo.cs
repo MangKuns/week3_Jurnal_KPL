@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Jurnal_MOD_[3]_1302220013_Rizky Kusuma Nugraha")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+49c1617ae1b1aa875735ad148e80e5da16332aaa")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+124875496ffa8e4e128e182ef15cfe063fd735ae")]
 [assembly: System.Reflection.AssemblyProductAttribute("Jurnal_MOD_[3]_1302220013_Rizky Kusuma Nugraha")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Jurnal_MOD_[3]_1302220013_Rizky Kusuma Nugraha")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
